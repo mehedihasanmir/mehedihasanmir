@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **scikit-learn**
 
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn),Ms Excel**
+- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn),Ms Excel**
 
 - 📫 How to reach me **mdmehedihassanmir@gmail.com**
 
