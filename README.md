@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Mehedi</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan Mir</h1>
 <h3 align="center">A passionate Data Scientist from Bangladesh</h3>
 
-- 🌱 I’m currently learning **scikit-learn**
+- 🌱 I’m currently learning **Tensorflow & Keras**
 
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn),Ms Excel**
+- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn, NLP),Ms Excel**
 
 - 📫 How to reach me **mdmehedihassanmir@gmail.com**
 
