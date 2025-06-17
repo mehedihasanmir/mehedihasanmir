@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tensorflow & Keras**
 
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn, NLP),Ms Excel**
+- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn, NLP, Torch, Tensorflow, Keras),Ms Excel**
 
 - 📫 How to reach me **mdmehedihassanmir@gmail.com**
 
