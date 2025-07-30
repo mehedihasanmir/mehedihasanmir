@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Mir</h1>
-<h3 align="center">A passionate Data Scientist from Bangladesh</h3>
+<h3 align="center">🎓 Computer Science Student | Aspiring AI Engineer
+📊 Background in Data Science, Machine Learning, Data & Business Analytics
+🤖 Currently learning Artificial Intelligence and Large Language Models (LLMs)
+🇧🇩 Passionate about building real-world solutions with AI & Data</h3>
 
-- 🌱 I’m currently learning **Tensorflow & Keras**
+- 🌱 I’m currently learning **LangChain**
 
 - 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn, NLP, Torch, Tensorflow, Keras),Ms Excel**
 
