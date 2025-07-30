@@ -4,10 +4,6 @@
 🤖 Currently learning Artificial Intelligence and Large Language Models (LLMs)
 🇧🇩 Passionate about building real-world solutions with AI & Data</h3>
 
-- 🌱 I’m currently learning **LangChain**
-
-- 💬 Ask me about **Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit learn, NLP, Torch, Tensorflow, Keras),Ms Excel**
-
 - 📫 How to reach me **mdmehedihassanmir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
